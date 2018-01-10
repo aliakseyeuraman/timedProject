@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<XML_COMPONENT_DATA xmlns="urn:awr-lib-data">
+
+    <COPYRIGHT>AWR</COPYRIGHT>
+    <SUMMARY>Entry point XML file for circuit libraries</SUMMARY>
+    <FILE Name="* AWR web site">http://www.awrcorp.com/weblibs/8_0/top_v8.xml</FILE>
+</XML_COMPONENT_DATA>
+
